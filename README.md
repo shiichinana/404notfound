@@ -35,7 +35,7 @@
 ## Overview
 
 ![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
-
+https://i.ibb.co/XFX3qBD/page.png
 
 
 - At first I don't know what should I start. BUt after that I try to look at the resources from figma and try making mistakes then fix it doing over and over untill I got this.
