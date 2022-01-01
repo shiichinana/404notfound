@@ -57,12 +57,12 @@ This application/site was created as a submission to a [DevChallenges](https://d
 <!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
 
 - [How to remove underline from a link in HTML?](https://stackoverflow.com/questions/10853881/how-to-remove-underline-from-a-link-in-html/10853894#10853894)
-- [Simple CSS: Text won't center in a button](Make a div fill the height of the remaining screen space)
+- [Simple CSS: Text won't center in a button](https://stackoverflow.com/questions/2883373/simple-css-text-wont-center-in-a-button)
 - [HTML Tutorial - How to Make a Super Simple Website](https://www.youtube.com/watch?v=PlxWf493en4)
 
 ## Contact
 
-- Website [your-website.com](https://nothaveyet})
-- GitHub [@your-username](https://github.com/shiichinana)
+- Website [nothaveyet](https://nothaveyet})
+- GitHub [@shiichinana](https://github.com/shiichinana)
 - Twitter [@sh1chinana](https://twitter.com/sh1chinana)
 
