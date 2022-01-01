@@ -1,131 +1,68 @@
-# 404notfound
-challenge
+<h1 align="center">404 not found</h1>
 
-<!DOCTYPE html>
-<html>
-<link href="https://fonts.googleapis.com/css?family=Space Mono" rel="stylesheet" />
-<link href="https://fonts.googleapis.com/css?family=Inconsolata" rel="stylesheet" />
-<link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet" />
+<div align="center">
+   Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
+</div>
 
-<style>
-    h1 {
-        font-size: 64px;
-        font-weight: bold;
-        font-style: normal;
-        color: #333333;
-        position: absolute;
-        width: 586px;
-        height: 190px;
-        left: 735px;
-        top: 265px;
-        line-height: 95px;
-        letter-spacing: -0.035em;
-        font-family: "Space Mono", sans-serif;
-    }
+<div align="center">
+  <h3>
+    <a href="https://{your-demo-link.your-domain}">
+      Demo
+    </a>
+    <span> | </span>
+    <a href="https://{your-url-to-the-solution}">
+      Solution
+    </a>
+    <span> | </span>
+    <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
+      Challenge
+    </a>
+  </h3>
+</div>
 
-    p {
-        position: absolute;
-        width: 381px;
-        height: 108px;
-        left: 736px;
-        top: 491px;
-        font-style: normal;
-        font-weight: normal;
-        font-size: 24px;
-        line-height: 36px;
-        letter-spacing: -0.035em;
-        font-family: "Space Mono", sans-serif;
-    }
+<!-- TABLE OF CONTENTS -->
+
+## Table of Contents
+
+- [Overview](#overview)
+  - [Built With](#built-with)
+- [Features](#features)
+- [Contact](#contact)
+- [Acknowledgements](#acknowledgements)
+
+<!-- OVERVIEW -->
+
+## Overview
+
+![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
 
 
-    .text {
-        position: absolute;
-        width: 133px;
-        height: 25px;
-        left: 77px;
-        top: 40px;
 
-        font-family: Inconsolata;
-        font-style: normal;
-        font-weight: bold;
-        font-size: 24px;
-        line-height: 25px;
-        letter-spacing: -0.08em;
-        text-transform: uppercase;
+- At first I don't know what should I start. BUt after that I try to look at the resources from figma and try making mistakes then fix it doing over and over untill I got this.
 
-        color: #333333;
-    }
 
-    button {
-        position: absolute;
-        width: 216px;
-        height: 68px;
-        left: 740px;
-        top: 663px;
-        
-        background: #333333;
-        
-    }
+### Built With
 
-    .text-in-box {
-        position: absolute;
-        width: 130px;
-        height: 21px;
-        left: 783px;
-        top: 687px;
-        font-family: "Space Mono";
-        font-style: normal;
-        font-weight: bold;
-        font-size: 14px;
-        line-height: 21px;
-        letter-spacing: -0.035em;
-        text-transform: uppercase;
+html and css
 
-        color: #FFFFFF;
-    }
+## Features
 
-    footer {
-        position: absolute;
-        width: 287px;
-        height: 17px;
-        left: 46px;
-        top: 908px;
-        font-family: Montserrat;
-        font-style: normal;
-        font-weight: 500;
-        font-size: 14px;
-        line-height: 17px;
-        text-align: center;
-        color: #BDBDBD;
-    }
+<!-- List the features of your application or follow the template. Don't share the figma file here :) -->
 
-    img {
-        position: absolute;
-        left: 5.35%;
-        right: 57.21%;
-        top: 24.54%;
-        bottom: 34.03%;
-        Top: 265px;
-        Left: 77px;
+This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) was to build an application to complete the given user stories.
 
-    }
-</style>
 
-<head>
-    <meta charset="utf-8">
-    <meta name="viewpoint" content="width=advice-width, initial-scale=1">
-    <title>404 not found</title>
-</head>
+## Acknowledgements
 
-<body>
-    <img src="../challenges/404-not-found-master/Scarecrow.png" alt="scarecrow" width="539.22px" height="447.43px" ;>
-    <p class="text">404 NOT FOUND</p>
-    <h1>I have bad news for you</h1>
-    <p>The pages you are looking for might be removed
-        or is temporarily unavailable</p>
-    <button>back to homepage</button>
-</body>
+<!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
 
-<footer>created by shiichinana - devChallenges.io</footer>
+- [How to remove underline from a link in HTML?](https://stackoverflow.com/questions/10853881/how-to-remove-underline-from-a-link-in-html/10853894#10853894)
+- [Simple CSS: Text won't center in a button](Make a div fill the height of the remaining screen space)
+- [HTML Tutorial - How to Make a Super Simple Website](https://www.youtube.com/watch?v=PlxWf493en4)
 
-</html>
+## Contact
+
+- Website [your-website.com](https://nothaveyet})
+- GitHub [@your-username](https://github.com/shiichinana)
+- Twitter [@sh1chinana](https://twitter.com/sh1chinana)
+
