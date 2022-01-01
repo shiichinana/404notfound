@@ -34,9 +34,9 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
-https://i.ibb.co/XFX3qBD/page.png
 
+
+![page](https://user-images.githubusercontent.com/96904013/147854114-8d293f1c-8a3d-44ca-adb5-ad78e6359c38.png)
 
 - At first I don't know what should I start. BUt after that I try to look at the resources from figma and try making mistakes then fix it doing over and over untill I got this.
 
